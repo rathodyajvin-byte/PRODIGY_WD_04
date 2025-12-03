@@ -33,7 +33,7 @@ This project is a single-page personal portfolio designed to showcase web develo
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/portfolio.git
+    git clone https://github.com/rathodyajvin-byte/portfolio.git
     ```
 2.  Install dependencies:
     ```bash
